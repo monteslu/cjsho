@@ -1,0 +1,17 @@
+{
+  "name": "relay",
+  "author": "jden <jason@denizac.org>",
+  "version": "0.1.0",
+  "description": "silly jden forgot to add a description",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "repository": "git@github.com:jden/relay.git",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "pr-request": "~0.1.0"
+  }
+}
